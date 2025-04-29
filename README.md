@@ -2,3 +2,8 @@
 *QRcode_detect可将倾斜的二维码矫正，检测二维码内容并输出<br />*
 *QRcode_generate是生成指定内容的二维码<br />*
 *Binocular_ranging是双目测距代码，通过内参计算左右摄像头拍摄的像素点实际距离<br />*
+*Two_pass是处理连通域色块的一种算法<br />*
+*vector_to_angle是计算两个向量夹角<br />*
+*object_Tracking是基于opencv的目标追踪<br />*
+*Camera_Calibration是相机标定<br />*
+
